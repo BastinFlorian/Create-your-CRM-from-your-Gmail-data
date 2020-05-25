@@ -5,10 +5,10 @@
  
  To launch this fonctionnality, you need to access to your Google Cloud Plateform console and create credentials that will allows the script to go in your email. Don't communicate this credentials. 
 
-Step 1 : go to your GCP console and create a project 
-Step 2 : enable gmail API 
-Step 3 : create credentials using https://www.twilio.com/blog/2017/02/an-easy-way-to-read-and-write-to-a-google-spreadsheet-in-python.html
-Step 4 : save the credentials in the Data directory with the name "credentials.json"
-Step 5 : go to your google contacts in the Google contact section, click on other contacts, select all and export. Save this file as contacts.csv in the Data directory
-Step 6 : python main.py 
+Step 1 : go to your GCP console and create a project </br>
+Step 2 : enable gmail API </br>
+Step 3 : create credentials using https://www.twilio.com/blog/2017/02/an-easy-way-to-read-and-write-to-a-google-spreadsheet-in-python.html </br>
+Step 4 : save the credentials in the Data directory with the name "credentials.json" </br>
+Step 5 : go to your google contacts in the Google contact section, click on other contacts, select all and export. Save this file as contacts.csv in the Data directory </br>
+Step 6 : python main.py </br>
 Step 7 : vizualize the output with potential phone numbers, frequency of the mail exchanges of each contact, last contact date, potential company of the contact 
